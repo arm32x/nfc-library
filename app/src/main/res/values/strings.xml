@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NFC Library</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_about">About</string>
+
+    <string name="menu_your_tags">Your tags</string>
+    <string name="your_tags_blank">Your tags will appear here</string>
+
+    <string name="snackbar_not_implemented">This feature has not been implemented</string>
+
+    <string name="title_activity_about_application">About</string>
+
+    <!-- String resources for the About page -->
+    <string name="about_bodyText1">
+        "NFC Library is an application that allows you to store NFC tags on your device and use your"
+        "device as that NFC tag."
+    </string>
+</resources>
